@@ -1,17 +1,17 @@
-#Slash
+#Clean Theme
 
-Slash is a minimal theme for Octopress.
+Clean Theme is a minimal theme for Octopress based on the great work done with [Slash](http://zespia.tw/Octopress-Theme-Slash/).
 
 ##Install
 
 Type the code below in terminal.
 
 	$ cd octopress
-	$ git clone git://github.com/tommy351/Octopress-Theme-Slash.git .themes/slash
-	$ rake install['slash']
+	$ git clone git@github.com:adilsoncarvalho/clean-theme.git .themes/clean-theme
+	$ rake install['clean-theme']
 	$ rake generate
 
-Have problems when installing with zsh? Try `rake install\['slash'\]` instead.
+Have problems when installing with zsh? Try `rake install\['clean-theme'\]` instead.
 
 ##Features
 
@@ -19,4 +19,3 @@ Have problems when installing with zsh? Try `rake install\['slash'\]` instead.
 - Built-in [Fancybox](http://fancyapps.com/fancybox/) enables you to showcase your works easily.
 - Resize HTML5 `video` and embedded video like `iframe`, `object` to page width automatically.
 - Supports responsive layouts. Whatever devices you use, you can get a great experience.
-- [More info…](http://zespia.tw/Octopress-Theme-Slash/)
